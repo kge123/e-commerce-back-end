@@ -29,3 +29,9 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Demo
+
+<img src="./images/Screenshot.jpg" width = "700">
+
+<br/>
+
+https://watch.screencastify.com/v/Tr9gdJeGSzxk8NQUfQnA
